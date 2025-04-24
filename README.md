@@ -12,6 +12,9 @@
   <a href="mailto:sejalvarshney08279@gmail">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://leetcode.com/u/Sejal_38/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode"/>
+  </a>
 </p>
 
 ---
